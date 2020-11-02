@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+An app to calculate and project your returns on investment.
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
