@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-An app to calculate and project your returns on investment.
+An app to calculate and make projections on your returns on investment.
 
 
 
